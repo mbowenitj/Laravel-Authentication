@@ -14,5 +14,5 @@
 
 - Login credentials
   ```bash
-  register with your credentials  
+  first register with your credentials  
   ```
