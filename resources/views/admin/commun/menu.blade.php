@@ -14,7 +14,7 @@
     <li class="<?php echo ( starts_with($route, ADMIN.'.categories') ) ? "active" : '' ?>">
         <a href="{{ route(ADMIN.'.categories.index') }}">
             <i class="fa fa-list"></i>
-            <span>Categories</span>
+            <span>Articles</span>
         </a>
     </li>
 
